@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    font-family: Megrim;
+    font-size: 88px;
+    color: #01cdfe;
+}
+
+h2 {
+    text-align: center;
+    font-family: Megrim; 
+}
+
+body {
+    background: rgb(75,75,75);
+}
+
+.crystal-image {
+    width: 20%;
+        
+}
+
+.container {
+    margin-top: 10px;
+}
+#game {
+    color: #ff71ce;
+}
+
+#score {
+    font-size: 40px;
+    color: #b967ff;
+    text-align: right;
+}
+
+#status {
+    font-size: 40px;
+    color: #05ffa1;
+    text-align: right;
+}
+
+#timer {
+    color: #fffb96;
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
