@@ -14,34 +14,22 @@ body {
     background: rgb(75,75,75);
 }
 
-.crystal-image {
-    width: 20%;
-        
+img {
+    width: 19%;
+    padding: none;
+    margin: 0 auto;
 }
 
-.container {
-    margin-top: 10px;
+#numberWins {
+    color: #80ff00
 }
-#game {
-    color: #ff71ce;
-}
-
-#score {
-    font-size: 40px;
-    color: #b967ff;
-    text-align: right;
+#numberLosses {
+    color: #800000
 }
 
-#status {
-    font-size: 40px;
-    color: #05ffa1;
-    text-align: right;
-}
 
-#timer {
-    color: #fffb96;
-    text-align: right;
-}
+
+
 
 
 
